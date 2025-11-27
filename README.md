@@ -10,15 +10,15 @@ This tool provides comprehensive analysis of endothelial transcytosis by process
 
 If you use this software in your research, please cite the following protocol paper where the methodology is described:
 
-**Ghaffari, S., Jang, E. & Lee, W. L. (2022).** Quantifying endothelial transcytosis with total internal reflection fluorescence microscopy (TIRF). In *Fluorescent Microscopy* (pp. 115-124). New York, NY: Springer US.
+**Ghaffari, S., Jang, E. & Lee, W. L. (2022).** Quantifying endothelial transcytosis with total internal reflection fluorescence microscopy (TIRF). In *Fluorescent Microscopy* (pp. 115-124). New York, NY: Springer US. [https://doi.org/10.1007/978-1-0716-2051-9_7](https://doi.org/10.1007/978-1-0716-2051-9_7)
 
 ### Related Publications
 
 This tool has been utilized in the following research:
 
-1. **Ghaffari, S., Naderi Nabi, F., Sugiyama, M. G., & Lee, W. L. (2018).** Estrogen inhibits LDL (low-density lipoprotein) transcytosis by human coronary artery endothelial cells via GPER (G-protein–coupled estrogen receptor) and SR-BI (scavenger receptor class B type 1). *Arteriosclerosis, Thrombosis, and Vascular Biology*, 38(10), 2283-2294.
+1. **Ghaffari, S., Naderi Nabi, F., Sugiyama, M. G., & Lee, W. L. (2018).** Estrogen inhibits LDL (low-density lipoprotein) transcytosis by human coronary artery endothelial cells via GPER (G-protein–coupled estrogen receptor) and SR-BI (scavenger receptor class B type 1). *Arteriosclerosis, Thrombosis, and Vascular Biology*, 38(10), 2283-2294. [https://doi.org/10.1161/ATVBAHA.118.311326](https://doi.org/10.1161/ATVBAHA.118.311326)
 
-2. **Ghaffari, S., Jang, E., Naderinabi, F., Sanwal, R., Khosraviani, N., Wang, C., ... & Lee, W. L. (2021).** Endothelial HMGB1 is a critical regulator of LDL transcytosis via an SREBP2–SR-BI axis. *Arteriosclerosis, Thrombosis, and Vascular Biology*, 41(1), 200-216.
+2. **Ghaffari, S., Jang, E., Naderinabi, F., Sanwal, R., Khosraviani, N., Wang, C., ... & Lee, W. L. (2021).** Endothelial HMGB1 is a critical regulator of LDL transcytosis via an SREBP2–SR-BI axis. *Arteriosclerosis, Thrombosis, and Vascular Biology*, 41(1), 200-216. [https://doi.org/10.1161/ATVBAHA.120.314557](https://doi.org/10.1161/ATVBAHA.120.314557)
 
 ## Features
 
